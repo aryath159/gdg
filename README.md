@@ -1,4 +1,4 @@
-# gdg
+# gdg checking
 # GDG Project
 
 Welcome to the GDG project!
